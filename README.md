@@ -1,6 +1,4 @@
-# Makective - Interactive for makefile
-
-This is Makefile template appliation on PHP, Python or another web language in docker.
+# Makective - makefile template with interactive menu. 
 
 For example terminal output:
 
